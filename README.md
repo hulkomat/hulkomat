@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hulkomat
-- 👀 I’m interested in Java, Kotlin, Angular, Scala
-- 🌱 I’m currently learning to use docker containers & docker compose to run application stacks
+- 👀 I’m interested in Java, Kotlin, Angular, Scala, Go, Python, Docker, Kubernetes
+- 🌱 I’m currently learning Python and Go
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 🇩🇪 
 
