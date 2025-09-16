@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hulkomat
 - 👀 I’m interested in Java, Kotlin, Angular, Scala, Go, Python, Docker, Kubernetes
-- 🌱 I’m currently learning Python and Go
+- 🌱 I’m currently building a project to have a solid base for quick scaling web application based on Event-Driven architecture with multiple microservices.
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 🇩🇪 
 
